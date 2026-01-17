@@ -10,6 +10,6 @@ An advanced, Python-based cybersecurity defense suite featuring real-time system
 - **Deep File Scan:** Hash-based malware signature detection.
 
 ## Installation
-1. Install dependencies: `pip install -r requirements.txt`
+1. For Installation `READ.txt`
 2. Run source: `python kareno_max.py`
 
