@@ -1,0 +1,4 @@
+pip install customtkinter psutil packaging pyinstaller
+
+
+pyinstaller --noconsole --onefile --name "KarenoSecurityMAX" kareno_max.py
